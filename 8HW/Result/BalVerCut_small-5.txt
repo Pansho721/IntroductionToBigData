@@ -1,0 +1,78 @@
+Graph: small-5
+===========================
+2 Partitions
+===========================
+Partition 0
+Number of master vertices: 2
+Number of total vertices: 4
+Number of edges in this partition: 2
+Partition 1
+Number of master vertices: 3
+Number of total vertices: 5
+Number of edges in this partition: 3
+3 Partitions
+===========================
+Partition 0
+Number of master vertices: 1
+Number of total vertices: 3
+Number of edges in this partition: 1
+Partition 1
+Number of master vertices: 0
+Number of total vertices: 0
+Number of edges in this partition: 0
+Partition 2
+Number of master vertices: 4
+Number of total vertices: 5
+Number of edges in this partition: 4
+4 Partitions
+===========================
+Partition 0
+Number of master vertices: 1
+Number of total vertices: 3
+Number of edges in this partition: 1
+Partition 1
+Number of master vertices: 3
+Number of total vertices: 5
+Number of edges in this partition: 3
+Partition 2
+Number of master vertices: 1
+Number of total vertices: 3
+Number of edges in this partition: 1
+Partition 3
+Number of master vertices: 0
+Number of total vertices: 0
+Number of edges in this partition: 0
+8 Partitions
+===========================
+Partition 0
+Number of master vertices: 0
+Number of total vertices: 0
+Number of edges in this partition: 0
+Partition 1
+Number of master vertices: 0
+Number of total vertices: 0
+Number of edges in this partition: 0
+Partition 2
+Number of master vertices: 0
+Number of total vertices: 0
+Number of edges in this partition: 0
+Partition 3
+Number of master vertices: 0
+Number of total vertices: 0
+Number of edges in this partition: 0
+Partition 4
+Number of master vertices: 1
+Number of total vertices: 3
+Number of edges in this partition: 1
+Partition 5
+Number of master vertices: 3
+Number of total vertices: 5
+Number of edges in this partition: 3
+Partition 6
+Number of master vertices: 1
+Number of total vertices: 3
+Number of edges in this partition: 1
+Partition 7
+Number of master vertices: 0
+Number of total vertices: 0
+Number of edges in this partition: 0

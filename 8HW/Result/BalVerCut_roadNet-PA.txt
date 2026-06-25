@@ -1,0 +1,78 @@
+Graph: roadNet-PA
+===========================
+2 Partitions
+===========================
+Partition 0
+Number of master vertices: 544003
+Number of total vertices: 1054746
+Number of edges in this partition: 1541916
+Partition 1
+Number of master vertices: 544089
+Number of total vertices: 1054671
+Number of edges in this partition: 1541880
+3 Partitions
+===========================
+Partition 0
+Number of master vertices: 361587
+Number of total vertices: 981584
+Number of edges in this partition: 1027052
+Partition 1
+Number of master vertices: 362378
+Number of total vertices: 982060
+Number of edges in this partition: 1026942
+Partition 2
+Number of master vertices: 364127
+Number of total vertices: 982890
+Number of edges in this partition: 1029802
+4 Partitions
+===========================
+Partition 0
+Number of master vertices: 272028
+Number of total vertices: 890276
+Number of edges in this partition: 771119
+Partition 1
+Number of master vertices: 272060
+Number of total vertices: 889435
+Number of edges in this partition: 770951
+Partition 2
+Number of master vertices: 271975
+Number of total vertices: 890420
+Number of edges in this partition: 770797
+Partition 3
+Number of master vertices: 272029
+Number of total vertices: 890121
+Number of edges in this partition: 770929
+8 Partitions
+===========================
+Partition 0
+Number of master vertices: 136140
+Number of total vertices: 628515
+Number of edges in this partition: 385590
+Partition 1
+Number of master vertices: 136082
+Number of total vertices: 613958
+Number of edges in this partition: 385489
+Partition 2
+Number of master vertices: 135863
+Number of total vertices: 630911
+Number of edges in this partition: 385234
+Partition 3
+Number of master vertices: 135966
+Number of total vertices: 620910
+Number of edges in this partition: 385507
+Partition 4
+Number of master vertices: 135888
+Number of total vertices: 628876
+Number of edges in this partition: 385529
+Partition 5
+Number of master vertices: 135978
+Number of total vertices: 613600
+Number of edges in this partition: 385462
+Partition 6
+Number of master vertices: 136112
+Number of total vertices: 631490
+Number of edges in this partition: 385563
+Partition 7
+Number of master vertices: 136063
+Number of total vertices: 621116
+Number of edges in this partition: 385422

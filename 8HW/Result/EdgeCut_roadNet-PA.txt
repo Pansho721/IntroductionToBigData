@@ -1,0 +1,95 @@
+Graph: roadNet-PA
+===========================
+2 Partitions
+===========================
+Partition 0
+Number of master vertices: 544077
+Number of total vertices: 1034699
+Number of replicated edges in this partition: 490622
+Number of edges in this partition: 2459752
+Partition 1
+Number of master vertices: 544015
+Number of total vertices: 1034541
+Number of replicated edges in this partition: 490526
+Number of edges in this partition: 2460268
+3 Partitions
+===========================
+Partition 0
+Number of master vertices: 362678
+Number of total vertices: 903390
+Number of replicated edges in this partition: 540712
+Number of edges in this partition: 1816756
+Partition 1
+Number of master vertices: 362717
+Number of total vertices: 903339
+Number of replicated edges in this partition: 540622
+Number of edges in this partition: 1817476
+Partition 2
+Number of master vertices: 362697
+Number of total vertices: 903162
+Number of replicated edges in this partition: 540465
+Number of edges in this partition: 1818740
+4 Partitions
+===========================
+Partition 0
+Number of master vertices: 272040
+Number of total vertices: 769210
+Number of replicated edges in this partition: 497170
+Number of edges in this partition: 1416438
+Partition 1
+Number of master vertices: 272012
+Number of total vertices: 768605
+Number of replicated edges in this partition: 496593
+Number of edges in this partition: 1416374
+Partition 2
+Number of master vertices: 272037
+Number of total vertices: 768232
+Number of replicated edges in this partition: 496195
+Number of edges in this partition: 1414840
+Partition 3
+Number of master vertices: 272003
+Number of total vertices: 768472
+Number of replicated edges in this partition: 496469
+Number of edges in this partition: 1415852
+8 Partitions
+===========================
+Partition 0
+Number of master vertices: 136010
+Number of total vertices: 456707
+Number of replicated edges in this partition: 320697
+Number of edges in this partition: 744310
+Partition 1
+Number of master vertices: 136003
+Number of total vertices: 455884
+Number of replicated edges in this partition: 319881
+Number of edges in this partition: 743198
+Partition 2
+Number of master vertices: 136001
+Number of total vertices: 455906
+Number of replicated edges in this partition: 319905
+Number of edges in this partition: 742762
+Partition 3
+Number of master vertices: 135999
+Number of total vertices: 456467
+Number of replicated edges in this partition: 320468
+Number of edges in this partition: 743670
+Partition 4
+Number of master vertices: 136030
+Number of total vertices: 456307
+Number of replicated edges in this partition: 320277
+Number of edges in this partition: 743806
+Partition 5
+Number of master vertices: 136009
+Number of total vertices: 456320
+Number of replicated edges in this partition: 320311
+Number of edges in this partition: 744060
+Partition 6
+Number of master vertices: 136036
+Number of total vertices: 456324
+Number of replicated edges in this partition: 320288
+Number of edges in this partition: 743450
+Partition 7
+Number of master vertices: 136004
+Number of total vertices: 456672
+Number of replicated edges in this partition: 320668
+Number of edges in this partition: 744214

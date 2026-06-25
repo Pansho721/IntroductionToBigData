@@ -1,0 +1,61 @@
+Graph: small-5
+===========================
+2 Partitions
+===========================
+Partition: 0
+Number of vertices: 4
+Number of edges: 3
+Partition: 1
+Number of vertices: 3
+Number of edges: 2
+3 Partitions
+===========================
+Partition: 0
+Number of vertices: 2
+Number of edges: 1
+Partition: 1
+Number of vertices: 0
+Number of edges: 0
+Partition: 2
+Number of vertices: 5
+Number of edges: 4
+4 Partitions
+===========================
+Partition: 0
+Number of vertices: 3
+Number of edges: 2
+Partition: 1
+Number of vertices: 3
+Number of edges: 2
+Partition: 2
+Number of vertices: 2
+Number of edges: 1
+Partition: 3
+Number of vertices: 0
+Number of edges: 0
+8 Partitions
+===========================
+Partition: 0
+Number of vertices: 0
+Number of edges: 0
+Partition: 1
+Number of vertices: 0
+Number of edges: 0
+Partition: 2
+Number of vertices: 0
+Number of edges: 0
+Partition: 3
+Number of vertices: 0
+Number of edges: 0
+Partition: 4
+Number of vertices: 3
+Number of edges: 2
+Partition: 5
+Number of vertices: 3
+Number of edges: 2
+Partition: 6
+Number of vertices: 2
+Number of edges: 1
+Partition: 7
+Number of vertices: 0
+Number of edges: 0

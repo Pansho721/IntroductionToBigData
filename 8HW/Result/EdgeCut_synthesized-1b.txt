@@ -1,0 +1,95 @@
+Graph: synthesized-1b
+===========================
+2 Partitions
+===========================
+Partition 0
+Number of master vertices: 500000
+Number of total vertices: 868729
+Number of replicated edges in this partition: 368729
+Number of edges in this partition: 3559123
+Partition 1
+Number of master vertices: 500000
+Number of total vertices: 877662
+Number of replicated edges in this partition: 377662
+Number of edges in this partition: 3612627
+3 Partitions
+===========================
+Partition 0
+Number of master vertices: 333334
+Number of total vertices: 737529
+Number of replicated edges in this partition: 404195
+Number of edges in this partition: 2671745
+Partition 1
+Number of master vertices: 333333
+Number of total vertices: 755501
+Number of replicated edges in this partition: 422168
+Number of edges in this partition: 2764815
+Partition 2
+Number of master vertices: 333333
+Number of total vertices: 710174
+Number of replicated edges in this partition: 376841
+Number of edges in this partition: 2531082
+4 Partitions
+===========================
+Partition 0
+Number of master vertices: 250000
+Number of total vertices: 619763
+Number of replicated edges in this partition: 369763
+Number of edges in this partition: 2036098
+Partition 1
+Number of master vertices: 250000
+Number of total vertices: 653409
+Number of replicated edges in this partition: 403409
+Number of edges in this partition: 2177224
+Partition 2
+Number of master vertices: 250000
+Number of total vertices: 634887
+Number of replicated edges in this partition: 384887
+Number of edges in this partition: 2106755
+Partition 3
+Number of master vertices: 250000
+Number of total vertices: 622244
+Number of replicated edges in this partition: 372244
+Number of edges in this partition: 2045669
+8 Partitions
+===========================
+Partition 0
+Number of master vertices: 125000
+Number of total vertices: 391315
+Number of replicated edges in this partition: 266315
+Number of edges in this partition: 1053742
+Partition 1
+Number of master vertices: 125000
+Number of total vertices: 438279
+Number of replicated edges in this partition: 313279
+Number of edges in this partition: 1163335
+Partition 2
+Number of master vertices: 125000
+Number of total vertices: 418170
+Number of replicated edges in this partition: 293170
+Number of edges in this partition: 1141721
+Partition 3
+Number of master vertices: 125000
+Number of total vertices: 400742
+Number of replicated edges in this partition: 275742
+Number of edges in this partition: 1078087
+Partition 4
+Number of master vertices: 125000
+Number of total vertices: 412761
+Number of replicated edges in this partition: 287761
+Number of edges in this partition: 1122469
+Partition 5
+Number of master vertices: 125000
+Number of total vertices: 422689
+Number of replicated edges in this partition: 297689
+Number of edges in this partition: 1177574
+Partition 6
+Number of master vertices: 125000
+Number of total vertices: 412181
+Number of replicated edges in this partition: 287181
+Number of edges in this partition: 1117325
+Partition 7
+Number of master vertices: 125000
+Number of total vertices: 407801
+Number of replicated edges in this partition: 282801
+Number of edges in this partition: 1109700

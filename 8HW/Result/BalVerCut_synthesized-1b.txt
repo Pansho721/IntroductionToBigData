@@ -1,0 +1,78 @@
+Graph: synthesized-1b
+===========================
+2 Partitions
+===========================
+Partition 0
+Number of master vertices: 500022
+Number of total vertices: 870732
+Number of edges in this partition: 2390206
+Partition 1
+Number of master vertices: 499978
+Number of total vertices: 871150
+Number of edges in this partition: 2390158
+3 Partitions
+===========================
+Partition 0
+Number of master vertices: 332072
+Number of total vertices: 734009
+Number of edges in this partition: 1593296
+Partition 1
+Number of master vertices: 333264
+Number of total vertices: 734892
+Number of edges in this partition: 1591285
+Partition 2
+Number of master vertices: 334664
+Number of total vertices: 735222
+Number of edges in this partition: 1595783
+4 Partitions
+===========================
+Partition 0
+Number of master vertices: 250167
+Number of total vertices: 630477
+Number of edges in this partition: 1195262
+Partition 1
+Number of master vertices: 250006
+Number of total vertices: 629661
+Number of edges in this partition: 1195103
+Partition 2
+Number of master vertices: 249855
+Number of total vertices: 630083
+Number of edges in this partition: 1194944
+Partition 3
+Number of master vertices: 249972
+Number of total vertices: 630023
+Number of edges in this partition: 1195055
+8 Partitions
+===========================
+Partition 0
+Number of master vertices: 125216
+Number of total vertices: 414632
+Number of edges in this partition: 597705
+Partition 1
+Number of master vertices: 125005
+Number of total vertices: 409296
+Number of edges in this partition: 597463
+Partition 2
+Number of master vertices: 124848
+Number of total vertices: 415429
+Number of edges in this partition: 597354
+Partition 3
+Number of master vertices: 124969
+Number of total vertices: 410965
+Number of edges in this partition: 597502
+Partition 4
+Number of master vertices: 124951
+Number of total vertices: 414176
+Number of edges in this partition: 597557
+Partition 5
+Number of master vertices: 125001
+Number of total vertices: 409351
+Number of edges in this partition: 597640
+Partition 6
+Number of master vertices: 125007
+Number of total vertices: 414544
+Number of edges in this partition: 597590
+Partition 7
+Number of master vertices: 125003
+Number of total vertices: 411500
+Number of edges in this partition: 597553

@@ -1,0 +1,61 @@
+Graph: roadNet-PA
+===========================
+2 Partitions
+===========================
+Partition: 0
+Number of vertices: 957001
+Number of edges: 1541598
+Partition: 1
+Number of vertices: 957371
+Number of edges: 1542198
+3 Partitions
+===========================
+Partition: 0
+Number of vertices: 805605
+Number of edges: 1024347
+Partition: 1
+Number of vertices: 807429
+Number of edges: 1026644
+Partition: 2
+Number of vertices: 808472
+Number of edges: 1032805
+4 Partitions
+===========================
+Partition: 0
+Number of vertices: 674566
+Number of edges: 770872
+Partition: 1
+Number of vertices: 672673
+Number of edges: 770573
+Partition: 2
+Number of vertices: 674193
+Number of edges: 770726
+Partition: 3
+Number of vertices: 673082
+Number of edges: 771625
+8 Partitions
+===========================
+Partition: 0
+Number of vertices: 410057
+Number of edges: 385758
+Partition: 1
+Number of vertices: 398878
+Number of edges: 385119
+Partition: 2
+Number of vertices: 411312
+Number of edges: 385172
+Partition: 3
+Number of vertices: 403440
+Number of edges: 385969
+Partition: 4
+Number of vertices: 409756
+Number of edges: 385114
+Partition: 5
+Number of vertices: 399939
+Number of edges: 385454
+Partition: 6
+Number of vertices: 411828
+Number of edges: 385554
+Partition: 7
+Number of vertices: 403686
+Number of edges: 385656

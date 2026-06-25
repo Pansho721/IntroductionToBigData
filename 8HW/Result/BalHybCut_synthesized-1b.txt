@@ -1,0 +1,61 @@
+Graph: synthesized-1b
+===========================
+2 Partitions
+===========================
+Partition: 0
+Number of vertices: 611319
+Number of edges: 2394487
+Partition: 1
+Number of vertices: 610750
+Number of edges: 2385877
+3 Partitions
+===========================
+Partition: 0
+Number of vertices: 455565
+Number of edges: 1656720
+Partition: 1
+Number of vertices: 451581
+Number of edges: 1516403
+Partition: 2
+Number of vertices: 456185
+Number of edges: 1607241
+4 Partitions
+===========================
+Partition: 0
+Number of vertices: 369358
+Number of edges: 1228612
+Partition: 1
+Number of vertices: 369615
+Number of edges: 1217949
+Partition: 2
+Number of vertices: 367324
+Number of edges: 1165875
+Partition: 3
+Number of vertices: 364349
+Number of edges: 1167928
+8 Partitions
+===========================
+Partition: 0
+Number of vertices: 218991
+Number of edges: 609237
+Partition: 1
+Number of vertices: 219420
+Number of edges: 603478
+Partition: 2
+Number of vertices: 218946
+Number of edges: 592789
+Partition: 3
+Number of vertices: 214233
+Number of edges: 572752
+Partition: 4
+Number of vertices: 223654
+Number of edges: 619375
+Partition: 5
+Number of vertices: 222815
+Number of edges: 614471
+Partition: 6
+Number of vertices: 217533
+Number of edges: 573086
+Partition: 7
+Number of vertices: 217199
+Number of edges: 595176
