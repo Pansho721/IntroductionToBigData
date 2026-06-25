@@ -1,0 +1,266 @@
+[
+  {
+    "frequency": 11596,
+    "nodes": [
+      {
+        "node_id": 0,
+        "name": "John"
+      },
+      {
+        "node_id": 1,
+        "name": "Mike"
+      },
+      {
+        "node_id": 2,
+        "name": "Mike"
+      },
+      {
+        "node_id": 3,
+        "name": "Mike"
+      }
+    ],
+    "edges": [
+      {
+        "source_node_id": 0,
+        "target_node_id": 1,
+        "amt": 0,
+        "strategy_name": "3",
+        "buscode": "1"
+      },
+      {
+        "source_node_id": 1,
+        "target_node_id": 2,
+        "amt": 0,
+        "strategy_name": "3",
+        "buscode": "1"
+      },
+      {
+        "source_node_id": 2,
+        "target_node_id": 3,
+        "amt": 0,
+        "strategy_name": "3",
+        "buscode": "2"
+      }
+    ]
+  },
+  {
+    "frequency": 11721,
+    "nodes": [
+      {
+        "node_id": 0,
+        "name": "John"
+      },
+      {
+        "node_id": 1,
+        "name": "Mike"
+      },
+      {
+        "node_id": 2,
+        "name": "Mike"
+      },
+      {
+        "node_id": 3,
+        "name": "Mike"
+      }
+    ],
+    "edges": [
+      {
+        "source_node_id": 0,
+        "target_node_id": 1,
+        "amt": 0,
+        "strategy_name": "3",
+        "buscode": "1"
+      },
+      {
+        "source_node_id": 1,
+        "target_node_id": 2,
+        "amt": 0,
+        "strategy_name": "3",
+        "buscode": "3"
+      },
+      {
+        "source_node_id": 2,
+        "target_node_id": 3,
+        "amt": 0,
+        "strategy_name": "3",
+        "buscode": "2"
+      }
+    ]
+  },
+  {
+    "frequency": 11687,
+    "nodes": [
+      {
+        "node_id": 0,
+        "name": "John"
+      },
+      {
+        "node_id": 1,
+        "name": "Mike"
+      },
+      {
+        "node_id": 2,
+        "name": "Mike"
+      },
+      {
+        "node_id": 3,
+        "name": "Mike"
+      }
+    ],
+    "edges": [
+      {
+        "source_node_id": 0,
+        "target_node_id": 1,
+        "amt": 0,
+        "strategy_name": "3",
+        "buscode": "3"
+      },
+      {
+        "source_node_id": 1,
+        "target_node_id": 2,
+        "amt": 0,
+        "strategy_name": "3",
+        "buscode": "2"
+      },
+      {
+        "source_node_id": 2,
+        "target_node_id": 3,
+        "amt": 0,
+        "strategy_name": "3",
+        "buscode": "3"
+      }
+    ]
+  },
+  {
+    "frequency": 11599,
+    "nodes": [
+      {
+        "node_id": 0,
+        "name": "Mike"
+      },
+      {
+        "node_id": 1,
+        "name": "Mike"
+      },
+      {
+        "node_id": 2,
+        "name": "Mike"
+      },
+      {
+        "node_id": 3,
+        "name": "John"
+      }
+    ],
+    "edges": [
+      {
+        "source_node_id": 0,
+        "target_node_id": 1,
+        "amt": 0,
+        "strategy_name": "3",
+        "buscode": "2"
+      },
+      {
+        "source_node_id": 1,
+        "target_node_id": 2,
+        "amt": 0,
+        "strategy_name": "3",
+        "buscode": "3"
+      },
+      {
+        "source_node_id": 2,
+        "target_node_id": 3,
+        "amt": 0,
+        "strategy_name": "3",
+        "buscode": "3"
+      }
+    ]
+  },
+  {
+    "frequency": 11691,
+    "nodes": [
+      {
+        "node_id": 0,
+        "name": "John"
+      },
+      {
+        "node_id": 1,
+        "name": "Mike"
+      },
+      {
+        "node_id": 2,
+        "name": "Mike"
+      },
+      {
+        "node_id": 3,
+        "name": "Mike"
+      }
+    ],
+    "edges": [
+      {
+        "source_node_id": 0,
+        "target_node_id": 1,
+        "amt": 0,
+        "strategy_name": "3",
+        "buscode": "3"
+      },
+      {
+        "source_node_id": 1,
+        "target_node_id": 2,
+        "amt": 0,
+        "strategy_name": "3",
+        "buscode": "3"
+      },
+      {
+        "source_node_id": 2,
+        "target_node_id": 3,
+        "amt": 0,
+        "strategy_name": "3",
+        "buscode": "2"
+      }
+    ]
+  },
+  {
+    "frequency": 10270,
+    "nodes": [
+      {
+        "node_id": 0,
+        "name": "Mike"
+      },
+      {
+        "node_id": 1,
+        "name": "Mike"
+      },
+      {
+        "node_id": 2,
+        "name": "Mike"
+      },
+      {
+        "node_id": 3,
+        "name": "Mike"
+      }
+    ],
+    "edges": [
+      {
+        "source_node_id": 0,
+        "target_node_id": 1,
+        "amt": 0,
+        "strategy_name": "3",
+        "buscode": "1"
+      },
+      {
+        "source_node_id": 1,
+        "target_node_id": 2,
+        "amt": 0,
+        "strategy_name": "3",
+        "buscode": "3"
+      },
+      {
+        "source_node_id": 2,
+        "target_node_id": 3,
+        "amt": 0,
+        "strategy_name": "2",
+        "buscode": "1"
+      }
+    ]
+  }
+]

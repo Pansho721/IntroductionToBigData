@@ -1,0 +1,229 @@
++ Frequency: 53759
+  - Format: 2
+  - Vertex 0
+    - Name is Mike
+  - Vertex 1
+    - Name is Mike
+  - Vertex 2
+    - Name is Mike
+  - Vertex 3
+    - Name is Mike
+  - Edge a
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode1
+  - Edge b
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode2
+  - Edge c
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode3
+
++ Frequency: 33501
+  - Format: 2
+  - Vertex 0
+    - Name is Mike
+  - Vertex 1
+    - Name is John
+  - Vertex 2
+    - Name is Mike
+  - Vertex 3
+    - Name is Mike
+  - Edge a
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode1
+  - Edge b
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode2
+  - Edge c
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode3
+
++ Frequency: 32809
+  - Format: 2
+  - Vertex 0
+    - Name is Mike
+  - Vertex 1
+    - Name is Mike
+  - Vertex 2
+    - Name is John
+  - Vertex 3
+    - Name is Mike
+  - Edge a
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode1
+  - Edge b
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode2
+  - Edge c
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode3
+
++ Frequency: 32419
+  - Format: 2
+  - Vertex 0
+    - Name is Mike
+  - Vertex 1
+    - Name is Mike
+  - Vertex 2
+    - Name is Mike
+  - Vertex 3
+    - Name is John
+  - Edge a
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode1
+  - Edge b
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode2
+  - Edge c
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode3
+
++ Frequency: 32311
+  - Format: 2
+  - Vertex 0
+    - Name is John
+  - Vertex 1
+    - Name is Mike
+  - Vertex 2
+    - Name is Mike
+  - Vertex 3
+    - Name is Mike
+  - Edge a
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode1
+  - Edge b
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode2
+  - Edge c
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode3
+
++ Frequency: 27684
+  - Format: 2
+  - Vertex 0
+    - Name is Mike
+  - Vertex 1
+    - Name is Mike
+  - Vertex 2
+    - Name is Mike
+  - Vertex 3
+    - Name is Mike
+  - Edge a
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode1
+  - Edge b
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode3
+  - Edge c
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode3
+
++ Frequency: 27254
+  - Format: 2
+  - Vertex 0
+    - Name is Mike
+  - Vertex 1
+    - Name is Mike
+  - Vertex 2
+    - Name is Mike
+  - Vertex 3
+    - Name is Mike
+  - Edge a
+    - amount of money is 0.0
+    - strategy is strategy_name-2
+    - business code is buscode3
+  - Edge b
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode1
+  - Edge c
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode3
+
++ Frequency: 27083
+  - Format: 2
+  - Vertex 0
+    - Name is Mike
+  - Vertex 1
+    - Name is Mike
+  - Vertex 2
+    - Name is Mike
+  - Vertex 3
+    - Name is Mike
+  - Edge a
+    - amount of money is 0.0
+    - strategy is strategy_name-2
+    - business code is buscode1
+  - Edge b
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode1
+  - Edge c
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode3
+
++ Frequency: 27068
+  - Format: 2
+  - Vertex 0
+    - Name is Mike
+  - Vertex 1
+    - Name is Mike
+  - Vertex 2
+    - Name is Mike
+  - Vertex 3
+    - Name is Mike
+  - Edge a
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode1
+  - Edge b
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode1
+  - Edge c
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode3
+
++ Frequency: 27025
+  - Format: 2
+  - Vertex 0
+    - Name is Mike
+  - Vertex 1
+    - Name is Mike
+  - Vertex 2
+    - Name is Mike
+  - Vertex 3
+    - Name is Mike
+  - Edge a
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode2
+  - Edge b
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode3
+  - Edge c
+    - amount of money is 0.0
+    - strategy is strategy_name-3
+    - business code is buscode3
